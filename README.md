@@ -8,7 +8,7 @@ The project utilizes several Python libraries, including:
 3. Matplotlib for visualization
 4. Scikit-learn for machine learning tasks
 
-# Libraries 
+# Data Collection and Processing 
 The data is extracted from the Lahman Baseball Database, specifically focusing on teams that have played a significant number of games (150 or more). The dataset is processed to extract relevant columns and perform necessary data cleaning.
 
 # Exploratory Data Analysis
